@@ -1,0 +1,15 @@
+helllow this is spark
+helllow this is spark
+helllow this is spark
+helllow this is spark3
+helllow this is spark
+helllow this is spark5
+sadjsadnnsdjnds
+this has to be
+The Spring Boot DefaultErrorAttributes-generated response has some good fields,
+but it is too focused on the exception. The timestamp field is an integer that
+doesn’t carry information about its measurement unit. The exception field is only
+valuable to Java developers, and the message leaves the API consumer lost in implementation
+ details that are irrelevant to them. What if there were more details we could extract from the
+ exception? Let’s learn how to handle exceptions in Spring Boot properly and wrap them into a
+ better JSON representation to make life easier for our API clients.
